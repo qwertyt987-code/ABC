@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Ứng dụng Vẽ và Xuất Word",
+  "description": "Một ứng dụng web để vẽ, sau đó lưu bản vẽ vào tài liệu Microsoft Word (.docx). Cho phép người dùng chọn màu sắc, kích thước bút vẽ và xóa bản vẽ. Nút 'Lưu' sẽ tạo một file Word chứa hình ảnh đã vẽ và tự động tải về.",
+  "requestFramePermissions": []
+}
